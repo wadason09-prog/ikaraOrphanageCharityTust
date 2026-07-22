@@ -132,6 +132,27 @@ section {
     border-radius: 4px;
 }
 
+.card{
+    position: relative;
+    border: solid;
+    background: #EFE7D6;
+    background-color: white;
+    border-color: white;
+    box-shadow: inset;
+    border-radius: 50px;
+    align-items: center;
+    text-align: center;
+    font-family: verdana;
+    color: black, bold;
+
+    font-size:large;
+    line-height: 1.65;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    margin: 0px;
+    background: var(--paper);
+    
+}
 /* ==========================================================================
    EYEBROW / SECTION HEADS  (ledger-entry styling)
    ========================================================================== */
